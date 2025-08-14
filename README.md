@@ -9,6 +9,19 @@ University Press, 2015.  However, note that the material is by no means
 specific to biology or bioinformatics, and can be used by anyone who wants to
 learn the Python programming language.
 
+Once you have mastered this material, you are ready to move on to
+
+* [Python for programmers](https://gjbex.github.io/Python-for-programmers/)
+  which is intended for people who have prior experience in programming in
+  another language, and want to learn Python.  It goes into considerable
+  more depth than this material, and covers more advanced topics.
+* [Scientific Python](https://gjbex.github.io/Scientific-Python/)
+  which is intended for people who have prior experience in programming in
+  Python, and want to learn how to use Python for scientific computing.
+* [Python for data science](https://gjbex.github.io/Python-for-data-science/)
+  which is intended for people who have prior experience in programming in
+  Python, and want to learn how to use Python for data science.
+
 
 ## What is it?
 
