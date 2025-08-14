@@ -25,6 +25,8 @@ Once you have mastered this material, you are ready to move on to
 
 ## What is it?
 
+1. `modeling_and_programming.pptx`: a PowerPoint presentation that introduces
+   the concepts of modeling and programming, and how they relate to each other.
 1. `notebooks`: Jupyter notebooks that explain the concepts of the Python
    programming language.
 1. `exercises`: exercises to practice the concepts, mostly as Jupyter
