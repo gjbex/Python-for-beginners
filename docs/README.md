@@ -27,7 +27,7 @@ Tailor-made upon request, budget for at least 16 hours.
 ## Training materials
 
 Slides are available in the
- [GitHub repository](https://github.com/gjbex/Python-for-data-science),
+ [GitHub repository](https://github.com/gjbex/Python-for-beginners),
 as well as example code and hands-on material.
 
 
