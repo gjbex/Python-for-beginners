@@ -13,6 +13,8 @@ The material
    notebooks.
 1. `extra-exercises`: additional exercises to practice the concepts, mostly as
    Jupyter notebooks.
+1. `environment.yml`: a conda environment file to create an environment
+   with the necessary packages to run the notebooks.
 1. `CONTRIBUTING.md`: guidelines for contributing to the repository.
 1. `LICENSE`: the license for the repository.
 1. `CODE_OF_CONDUCT.md`: the code of conduct for the repository and for

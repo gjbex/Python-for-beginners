@@ -1,0 +1,15 @@
+name: python_for_beginners
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - ipywidgets
+  - ipython
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /home/gjb/mambaforge/envs/python_for_beginners
