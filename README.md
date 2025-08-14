@@ -3,7 +3,12 @@
 This is (self-study) material for learning Python programming language. It is
 intended for beginners who have no prior experience in programming.
 
-The material 
+This is matrial is based on the book _Python programming for biology,
+bioinformatics and beyond_ by Tim J. Stevens and Wayne Boucher, Cambridge
+University Press, 2015.  However, note that the material is by no means
+specific to biology or bioinformatics, and can be used by anyone who wants to
+learn the Python programming language.
+
 
 ## What is it?
 
