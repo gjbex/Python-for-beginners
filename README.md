@@ -33,6 +33,7 @@ Once you have mastered this material, you are ready to move on to
    Jupyter notebooks.
 1. `environment.yml`: a conda environment file to create an environment
    with the necessary packages to run the notebooks.
+1. `docs`: directory that contains the website for this training.
 1. `CONTRIBUTING.md`: guidelines for contributing to the repository.
 1. `LICENSE`: the license for the repository.
 1. `CODE_OF_CONDUCT.md`: the code of conduct for the repository and for
